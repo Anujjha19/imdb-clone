@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react"
-import "../Home/HomePage.css"
+import "./HomePage.css"
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import { Link } from "react-router-dom";
+import MovieList from "../../components/MovieList/MovieList";
 
 const HomePage = () => {
 
@@ -45,6 +46,7 @@ const HomePage = () => {
                         ))
                     }
                 </Carousel>
+                <MovieList />
             </div>
         </>
     )
