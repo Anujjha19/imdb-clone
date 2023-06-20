@@ -2,6 +2,8 @@
 
 This is a ***Movies App*** created using `React` which provides the list of upcoming, popular, and top-rated movies. You can click on any movie to view its detail page.
 
+## Live Demo - https://6491cc85085e1207c8efcf20--stirring-meerkat-60587b.netlify.app/
+
 ## Technologies used
 * ReactJs
 * React Router Dom
