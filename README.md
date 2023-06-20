@@ -18,7 +18,7 @@ In order to build this *Movies App IMDB Clone React App*, we have used the follo
   * Popular - [https://api.themoviedb.org/3/movie/popular?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1](https://api.themoviedb.org/3/movie/popular?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1)
   * Upcoming - [https://api.themoviedb.org/3/movie/upcoming?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1](https://api.themoviedb.org/3/movie/upcoming?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1)
   * Top Rated - [https://api.themoviedb.org/3/movie/top_rated?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1](https://api.themoviedb.org/3/movie/top_rated?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US&page=1)
-  * Movie Detail API - [https://api.themoviedb.org/3/movie/{{ id }}?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US](https://api.themoviedb.org/3/movie/{{ id }}?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US)
+  * Movie Detail API - [https://api.themoviedb.org/3/movie/{{ id }}?api_key=4e44d9029b1270a757cddc766a1bcb63&language=en-US](https://api.themoviedb.org/3/movie/{{ id }}?api_key=key&language=en-US)
 
 ## Installation
 To get started with the Movie App, follow these steps:
